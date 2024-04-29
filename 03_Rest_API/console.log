@@ -1,0 +1,141 @@
+2024-04-29T15:44:42.672000-03:00 13484|***  TOTVS S/A  ***
+***  www.totvs.com.br  ***
+* TOTVS - Build 7.00.210324P - Oct  5 2022 - 03:14:53 
+* Build: 64 bits
+* SVN Revision: 36666
+* Build Version: 20.3.1.0
+
+2024-04-29T15:44:42.673000-03:00 13484|
+Using ini file 'appserver.ini'
+2024-04-29T15:44:42.674000-03:00 13484|
+[INFO ][SERVER] BTMonitor start time: 0.001000 sec
+2024-04-29T15:44:42.674000-03:00 13484|
+[WARN ][SERVER] [Thread 13484] Monitored Calls - No records found.
+2024-04-29T15:44:42.675000-03:00 13484|
+[INFO ][SERVER] Loading translation file (C:\TOTVS\Protheus\Protheus\bin\appserver_rest\\appserver_en_en). 
+
+2024-04-29T15:44:42.678000-03:00 13484|
+'_TOTVS | Appserver 12 | REST' console mode.
+Press Ctrl+Break to terminate.
+2024-04-29T15:44:42.680000-03:00 13484|*** SERVER BUILD WITH CLASS INSTANCE RUNNING CHECK
+2024-04-29T15:44:42.680000-03:00 13484|*** SERVER BUILD WITH ENHANCED CODEBLOCK MANAGER
+2024-04-29T15:44:42.681000-03:00 13484|*** SERVER BUILD WITH ENHANCED LOCALENV MANAGER
+2024-04-29T15:44:42.681000-03:00 13484|*** SERVER BUILD WITH LOCKSERVER CLIENT SINGLE CONNECTION
+2024-04-29T15:44:42.683000-03:00 13484|*** SERVER BUILD WITH DUAL-STACK SOCKETS FOR IPV6 IMPLEMENTATION
+2024-04-29T15:44:42.684000-03:00 13484|*** DEFAULT SOCKET BIND IS IPV4 
+2024-04-29T15:44:42.685000-03:00 13484|*** SERVER BUILD WITH TRACK UNRELEASED LOCKS IMPLEMENTATION
+2024-04-29T15:44:42.686000-03:00 13484|*** STARTING SERVER WITH MAXIMUM STRING SIZE LIMIT SET TO 500 MB. ***
+2024-04-29T15:44:42.686000-03:00 13484|*** SERVER BUILT WITH STRING_STRICT_SIZE OPTIMIZATION ***
+2024-04-29T15:44:42.688000-03:00 13484|
+2024-04-29T15:44:42.688000-03:00 13484|
+---------------- OS System Info -----------------------------------------------
+OS Version .........: Windows 11 [Version 10.0.22631]
+OS Platform ........: Windows NT Based (x64)
+OS Version Info ....: 
+OS Power Scheme ....: Balanced - 'High Performance' is recommended
+-------------------------------------------------------------------------------
+
+
+---------------- OS Memory Info -----------------------------------------------
+Physical memory .    10188.18 MB.   Used     7755.12 MB.   Free     2433.06 MB.
+Paging file .....    13956.64 MB.   Used    11489.88 MB.   Free     2466.77 MB.
+-------------------------------------------------------------------------------
+
+2024-04-29T15:44:42.691000-03:00 13484|
+[INFO ][SERVER] [Thread 13484] APP Virtual Address Allocation Limit .... 134217727.88 MB.
+2024-04-29T15:44:42.691000-03:00 13484|
+[INFO ][SERVER] [Thread 13484] Memory Monitor Virtual Address LIMIT .... 134217727.88  MB.
+2024-04-29T15:44:42.693000-03:00 13484|
+[INFO ][SSL] SSL global initialization
+2024-04-29T15:44:42.695000-03:00 16920|
+[WARN ][SERVER] [Thread 16920] [29/04/2024 15:44:42] *** The current power scheme is 'Balanced' - 'High Performance' is recommended. ***
+2024-04-29T15:44:42.702000-03:00 13484|
+[INFO ][SERVER] Application PID  ......... [7148]
+2024-04-29T15:44:42.702000-03:00 13484|
+[INFO ][SERVER] Application Main Thread .. [13484]
+2024-04-29T15:44:42.706000-03:00 13484|
+[INFO ][SERVER] [MPPORT] TCP port for smartclient: port 1001
+2024-04-29T15:44:42.706000-03:00 13484|
+[WARN ][SERVER] [MPPORT] Multi Protocol Port disabled.
+2024-04-29T15:44:42.707000-03:00 13484|
+[WARN ][SERVER] [MPPORT] Some applications may not work properly.
+2024-04-29T15:44:42.708000-03:00 13484|
+[INFO ][SERVER] [Thread 13484] Application Server started on port 1001
+2024-04-29T15:44:42.710000-03:00 13484|
+[INFO ][SERVER] [APPMON] - Starting Application Monitor
+2024-04-29T15:44:42.718000-03:00 13484|
+[INFO ][SERVER] [Thread 13484] Env [ÿTLPP_ENVÿ] using alternative Encoding/Decoding behavior.
+2024-04-29T15:44:42.732000-03:00 13484|
+2024-04-29T15:44:42.736000-03:00 13484|[APPMON] starting on port 32033
+2024-04-29T15:44:42.970000-03:00 13484|
+[INFO ][SERVER] [Thread 13484] HTTP server APP_MONITOR_SERVER, port: 32033, started on ID: 0
+2024-04-29T15:44:42.973000-03:00 13484|
+[INFO ][SERVER] [Thread 13484] HTTP Server - APP_MONITOR_SERVER, started on port:  32033.
+2024-04-29T15:44:42.973000-03:00 13484|[APPMON] Started on port: 32033 on /api
+2024-04-29T15:44:42.999000-03:00 13484|
+[INFO ][SERVER] Server not found, ID: '/api'
+2024-04-29T15:44:43.001000-03:00 13484|
+[INFO ][SERVER] [Thread     0] JOB Thread finished [-]
+2024-04-29T15:44:43.002000-03:00 13484|
+[INFO ][SERVER] [APPMON] - Started Application Monitor on port 32033 on URI /api
+2024-04-29T15:44:43.003000-03:00 13484|
+----------- Services Start Time  ----------
+2024-04-29T15:44:43.004000-03:00 13484|         JOB MANAGER	0.001 s	
+2024-04-29T15:44:43.004000-03:00 13484|                 TCP	0.007 s	
+2024-04-29T15:44:43.005000-03:00 13484|         LOCK SERVER	0.000 s	
+2024-04-29T15:44:43.006000-03:00 13484|         APP Monitor	0.293 s	
+2024-04-29T15:44:43.007000-03:00 13484|  HTTPSERVER - VADER	0.000 s	
+2024-04-29T15:44:43.008000-03:00 13484|
+--- Application Server Start Time: 0.301 s
+2024-04-29T15:44:43.008000-03:00 13484|
+[29/04/2024 15:44:43] Totvs Application Server is running
+2024-04-29T15:44:43.720000-03:00 5540|
+Starting Job [HTTPJOB]
+2024-04-29T15:44:43.728000-03:00 5540|
+[INFO ][SERVER] [Thread 5540] Env [ENVIRONMENT] using alternative Encoding/Decoding behavior.
+2024-04-29T15:44:45.780000-03:00 5540|
+Starting Job [BEF777602AF94B4C976B8B96B606211CAPP_MONITOR_THREADPOOL]
+2024-04-29T15:44:45.931000-03:00 11796|
+  _____   ______   _____  _______ 
+ |  __ \ |  ____| / ____||__   __|
+ | |__) || |__   | (___     | |   
+ |  _  / |  __|   \___ \    | |   
+ | | \ \ | |____  ____) |   | |   
+ |_|  \_\|______||_____/    |_|   Ver. 2.0
+
+2024-04-29T15:44:45.939000-03:00 11796|
+[INFO ][SERVER] [Thread 11796] Env [ENVIRONMENT] using alternative Encoding/Decoding behavior.
+2024-04-29T15:44:46.459000-03:00 11796|
+[INFO ][SERVER] [Thread 11796] Env [ENVIRONMENT] using alternative Encoding/Decoding behavior.
+2024-04-29T15:44:46.545000-03:00 10400|
+*** Loading dbapi.dll
+2024-04-29T15:44:46.546000-03:00 10400|
+[INFO ][SERVER] [DBAPI] Using DBAPI Memory Control Functions.
+2024-04-29T15:44:46.547000-03:00 10400|*** dbapi.dll Build 20220303-20221005 RELEASE (API Version: 22.1.1.0)
+2024-04-29T15:44:48.904000-03:00 10400|
+[INFO ][SERVER] [Thread 10400] JOB Thread finished [-FWHTTPPREPARE]
+2024-04-29T15:44:48.913000-03:00 11796|
+HTTPV11 is ready.
+  Listening port 8080
+  URL Paths /rest/
+
+2024-04-29T15:44:48.921000-03:00 11796|
+[INFO ][SERVER] [Thread 11796] Env [ENVIRONMENT] using alternative Encoding/Decoding behavior.
+2024-04-29T15:44:49.140000-03:00 11796|
+[INFO ][SERVER] [Thread 11796] HTTP server HTTPREST, port: 8080, started on ID: 1
+2024-04-29T15:44:49.147000-03:00 11796|
+[INFO ][SERVER] [Thread 11796] Env [ENVIRONMENT] using alternative Encoding/Decoding behavior.
+2024-04-29T15:44:49.159000-03:00 11796|
+[INFO ][SERVER] [Thread 11796] Env [ENVIRONMENT] using alternative Encoding/Decoding behavior.
+2024-04-29T15:44:49.167000-03:00 11796|
+[INFO ][SERVER] [Thread 11796] HTTP Server - HTTPREST, started on port:  8080.
+2024-04-29T15:44:49.448000-03:00 11796|
+[INFO ][SERVER] [Thread 11796] JOB Thread finished [HTTPJOB-HTTP_START]
+2024-04-29T15:44:51.390000-03:00 7500|
+Loading Ctree Local [ctreestd.dll]
+2024-04-29T15:45:30.855000-03:00 7500|
+[INFO ][SERVER] [Thread 7500] INACTIVETIMEOUT changed from [0] seconds to [5400] seconds.
+2024-04-29T15:45:46.304000-03:00 5540|
+[INFO ][SERVER] [Thread 5540] Env [ENVIRONMENT] using alternative Encoding/Decoding behavior.
+2024-04-29T15:45:46.495000-03:00 3120|
+[INFO ][SERVER] [Thread  3120] JOB Thread finished [HTTPJOB-HTTP_START]
